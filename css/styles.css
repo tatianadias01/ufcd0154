@@ -10851,6 +10851,8 @@ p {
   display: block;
   font-size: 2rem;
   font-weight: 800;
+  font-family: Fredoka One;
+  letter-spacing: 0.3em;
 }
 .site-heading .site-heading-lower {
   font-size: 5rem;
