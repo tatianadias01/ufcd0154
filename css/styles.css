@@ -12866,6 +12866,7 @@ h2 {
   color: #111;
 }
 
+/*
 section {
   max-width: 900px;
   margin: 40px auto;
@@ -12873,7 +12874,7 @@ section {
   background: rgba(176, 176, 176, 0.9);
   border-radius: 12px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
+}*/
 
 iframe {
   border-radius: 12px;
