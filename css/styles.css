@@ -12902,7 +12902,7 @@ iframe {
 }
 
 .btn-primary:hover {
-  background: #000;
+  background: rgba(176, 176, 176, 0.9);
 }
 
 .btn-success {
